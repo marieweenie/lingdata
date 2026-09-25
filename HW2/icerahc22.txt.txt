@@ -954,5 +954,5 @@
 <word pos="VERB" lemma="vikja" />
 <word pos="NOUN" lemma="engill" />
 <word pos="PRON" lemma="sig" />
-Строка поиска: ^([^\t]+)\t([^\t]+)\t([^\r\n]+)
-Строка замены: <word pos="$3" lemma="$2" />
+Г‘ГІГ°Г®ГЄГ  ГЇГ®ГЁГ±ГЄГ : ^([^\t]+)\t([^\t]+)\t([^\r\n]+)
+Г‘ГІГ°Г®ГЄГ  Г§Г Г¬ГҐГ­Г»: <word pos="$3" lemma="$2" />
